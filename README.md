@@ -1,8 +1,5 @@
 # News Summary challenge
-
-create an app that summarises the news.
-
-Your app will grab all the headlines from the Guardian newspaper API and display them on a page.  Clicking on a headline will show a summary of the article.
+Single page web app summarising the daily news headlines. Featuring index of clickable headlines that expand to summary views of the articles with option to read full article at its origin site. The app grabs headlines from the Guardian newspaper API. 
 
 ### Technologies
 
